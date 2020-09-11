@@ -1,0 +1,11 @@
+https://www.earthdatascience.org/courses/scientists-guide-to-plotting-data-in-python/plot-spatial-data/customize-vector-plots/python-customize-map-legends-geopandas/
+http://jonathansoma.com/lede/foundations-2017/classes/geopandas/mapping-with-geopandas/
+https://geopandas.org/mapping.html
+http://darribas.org/gds15/content/labs/lab_03.html
+
+https://www.mapsofindia.com/lat_long/tamilnadu/
+
+https://automating-gis-processes.github.io/CSC/course-info/course-info.html
+
+
+https://pypi.org/project/geopandas-postgis/
